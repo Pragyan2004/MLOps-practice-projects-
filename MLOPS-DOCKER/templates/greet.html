@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greeting</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v=2">
+</head>
+<body>
+    <div class="glass-container greet-message">
+        <h1>Hello, {{ username }}! ✨</h1>
+        <p>Welcome to this app for Docker demonstration.</p>
+        <p style="margin-top: 15px; font-style: italic; color: rgba(255,255,255,0.9);">
+            Please consider liking and subscribing to the channel!
+        </p>
+        <a href="/" class="back-link">Go Back</a>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
