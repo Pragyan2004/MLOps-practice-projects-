@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/967273884360897108/c985cdd28c954b99bb01762081c71d72/artifacts
+end_time: 1778770468350
+entry_point_name: ''
+experiment_id: '967273884360897108'
+lifecycle_stage: active
+run_id: c985cdd28c954b99bb01762081c71d72
+run_name: kindly-squirrel-378
+run_uuid: c985cdd28c954b99bb01762081c71d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778770437193
+status: 3
+tags: []
+user_id: Pragyan Kumar

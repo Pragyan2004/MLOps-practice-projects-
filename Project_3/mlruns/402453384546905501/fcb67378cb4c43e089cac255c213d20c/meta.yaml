@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/fcb67378cb4c43e089cac255c213d20c/artifacts
+end_time: 1778903657572
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: fcb67378cb4c43e089cac255c213d20c
+run_name: RandomForest with TF-IDF
+run_uuid: fcb67378cb4c43e089cac255c213d20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903650992
+status: 3
+tags: []
+user_id: Pragyan2004

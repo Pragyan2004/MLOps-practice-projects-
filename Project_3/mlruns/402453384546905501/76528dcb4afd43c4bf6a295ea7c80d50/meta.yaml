@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/76528dcb4afd43c4bf6a295ea7c80d50/artifacts
+end_time: 1778903623834
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: 76528dcb4afd43c4bf6a295ea7c80d50
+run_name: MultinomialNB with BoW
+run_uuid: 76528dcb4afd43c4bf6a295ea7c80d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903618401
+status: 3
+tags: []
+user_id: Pragyan2004

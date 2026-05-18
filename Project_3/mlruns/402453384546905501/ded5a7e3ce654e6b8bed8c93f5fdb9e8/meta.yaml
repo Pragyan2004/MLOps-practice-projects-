@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/ded5a7e3ce654e6b8bed8c93f5fdb9e8/artifacts
+end_time: 1778903618392
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: ded5a7e3ce654e6b8bed8c93f5fdb9e8
+run_name: LogisticRegression with TF-IDF
+run_uuid: ded5a7e3ce654e6b8bed8c93f5fdb9e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903612865
+status: 3
+tags: []
+user_id: Pragyan2004

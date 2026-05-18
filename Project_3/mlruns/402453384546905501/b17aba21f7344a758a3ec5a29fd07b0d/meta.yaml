@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/b17aba21f7344a758a3ec5a29fd07b0d/artifacts
+end_time: 1778903544978
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: b17aba21f7344a758a3ec5a29fd07b0d
+run_name: RandomForest with BoW
+run_uuid: b17aba21f7344a758a3ec5a29fd07b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903538447
+status: 3
+tags: []
+user_id: Pragyan2004

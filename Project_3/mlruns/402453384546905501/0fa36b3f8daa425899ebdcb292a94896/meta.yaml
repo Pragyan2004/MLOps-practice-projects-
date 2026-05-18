@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/0fa36b3f8daa425899ebdcb292a94896/artifacts
+end_time: 1778903523444
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: 0fa36b3f8daa425899ebdcb292a94896
+run_name: MultinomialNB with TF-IDF
+run_uuid: 0fa36b3f8daa425899ebdcb292a94896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903517953
+status: 3
+tags: []
+user_id: Pragyan2004

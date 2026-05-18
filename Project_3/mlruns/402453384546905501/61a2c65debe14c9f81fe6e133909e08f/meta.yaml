@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/61a2c65debe14c9f81fe6e133909e08f/artifacts
+end_time: 1778903569561
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: 61a2c65debe14c9f81fe6e133909e08f
+run_name: All Experiments
+run_uuid: 61a2c65debe14c9f81fe6e133909e08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903492964
+status: 3
+tags: []
+user_id: Pragyan2004

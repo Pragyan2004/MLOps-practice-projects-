@@ -1,0 +1,15 @@
+artifact_uri: file:D:\code\Docker\MLOps-practice-projects-\Project_3\mlruns/682622947137695424/1572a483857b407c81b2911b1d5b5355/artifacts
+end_time: 1778903215108
+entry_point_name: ''
+experiment_id: '682622947137695424'
+lifecycle_stage: active
+run_id: 1572a483857b407c81b2911b1d5b5355
+run_name: adorable-penguin-378
+run_uuid: 1572a483857b407c81b2911b1d5b5355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903186221
+status: 3
+tags: []
+user_id: Pragyan2004

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/967273884360897108/83397f5a06044fa2a61456003f8040a2/artifacts
+end_time: 1778903706180
+entry_point_name: ''
+experiment_id: '967273884360897108'
+lifecycle_stage: active
+run_id: 83397f5a06044fa2a61456003f8040a2
+run_name: 'LR with params: {''C'': 10, ''penalty'': ''l2'', ''solver'': ''liblinear''}'
+run_uuid: 83397f5a06044fa2a61456003f8040a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903706071
+status: 3
+tags: []
+user_id: Pragyan2004

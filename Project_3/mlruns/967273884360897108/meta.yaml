@@ -1,0 +1,6 @@
+artifact_location: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/967273884360897108
+creation_time: 1778770431159
+experiment_id: '967273884360897108'
+last_update_time: 1778770431159
+lifecycle_stage: active
+name: LoR Hyperparameter Tuning

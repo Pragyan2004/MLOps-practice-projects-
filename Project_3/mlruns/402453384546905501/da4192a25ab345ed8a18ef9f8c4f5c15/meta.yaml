@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/402453384546905501/da4192a25ab345ed8a18ef9f8c4f5c15/artifacts
+end_time: 1778903676094
+entry_point_name: ''
+experiment_id: '402453384546905501'
+lifecycle_stage: active
+run_id: da4192a25ab345ed8a18ef9f8c4f5c15
+run_name: GradientBoosting with TF-IDF
+run_uuid: da4192a25ab345ed8a18ef9f8c4f5c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903666441
+status: 3
+tags: []
+user_id: Pragyan2004

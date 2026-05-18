@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/Docker/MLOps-practice-projects-/Project_3/mlruns/967273884360897108/4371fd848be7430d92171b062639647f/artifacts
+end_time: 1778903717602
+entry_point_name: ''
+experiment_id: '967273884360897108'
+lifecycle_stage: active
+run_id: 4371fd848be7430d92171b062639647f
+run_name: skittish-flea-372
+run_uuid: 4371fd848be7430d92171b062639647f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778903700902
+status: 3
+tags: []
+user_id: Pragyan2004
